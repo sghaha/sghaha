@@ -1,4 +1,4 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eea28c04-c616-4a5c-985c-e7a5d237b929" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/98567497/163681932-5f3f2a30-98f9-40e5-b0cd-f74072626a35.png)
 
 <!--
 **sghaha/sghaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
