@@ -1,6 +1,7 @@
 https://exam.sghaha.com
 
 ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/98567497/163681932-5f3f2a30-98f9-40e5-b0cd-f74072626a35.png)
+![49_Oracle_Cloud_Infrastructure_Developer_1](https://user-images.githubusercontent.com/98567497/163684528-2b7cd0ac-2f1b-48f2-8fa8-0b0163787428.png)
 
 <!--
 **sghaha/sghaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
