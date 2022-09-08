@@ -1,7 +1,10 @@
-오아클: 지식을 나누는 클라우드 자격 준비
+[토이프로젝트] 오아클: 지식을 나누는 클라우드 자격 준비
 
 https://www.oacle.net
 
+Github   
+   
+https://github.com/sghaha   
 
 
 <!--
